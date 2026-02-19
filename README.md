@@ -55,3 +55,7 @@ Total Memory Required: 21.60 GB
 ## 📜 LOLcense
 
 For {root} sake I'm a designer. Mostly all the code has been writen by chatGPT and *ad latere*.
+
+## LOLcense
+
+For {root} sake I'm a designer. Mostly all the code has been written by Claude and ad latere.
